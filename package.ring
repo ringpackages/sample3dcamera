@@ -30,9 +30,9 @@ aPackageInfo = [
 		"README.md"
 	],
 	:ringfolderfiles = 	[
-		"samples/3d/camera/camera.ring",
-		"samples/3d/camera/cube.jpg",
-		"samples/3d/camera/pirulen.ttf"
+		"samples/3D/camera/camera.ring",
+		"samples/3D/camera/cube.jpg",
+		"samples/3D/camera/pirulen.ttf"
 	],
 	:windowsfiles = 	[
 
